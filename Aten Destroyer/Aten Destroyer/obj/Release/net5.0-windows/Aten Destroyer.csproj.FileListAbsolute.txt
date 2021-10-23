@@ -1,0 +1,19 @@
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.exe
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.deps.json
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.runtimeconfig.json
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.runtimeconfig.dev.json
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.dll
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\ref\Aten Destroyer.dll
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\bin\Release\net5.0-windows\Aten Destroyer.pdb
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.csproj.AssemblyReference.cache
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten_Destroyer.Form1.resources
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten_Destroyer.Properties.Resources.resources
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.csproj.GenerateResource.cache
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.AssemblyInfoInputs.cache
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.AssemblyInfo.cs
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.dll
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\ref\Aten Destroyer.dll
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.pdb
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer\Aten Destroyer\obj\Release\net5.0-windows\Aten Destroyer.genruntimeconfig.cache

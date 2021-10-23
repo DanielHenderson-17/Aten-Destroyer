@@ -1,0 +1,5 @@
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer.exe
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer.dll
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer.deps.json
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer.runtimeconfig.json
+C:\Users\djhin\Desktop\C#\Aten Destroyer\Aten Destroyer.pdb
